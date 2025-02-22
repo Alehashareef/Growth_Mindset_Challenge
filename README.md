@@ -52,7 +52,7 @@ Contributions are welcome! Feel free to fork the project, create a new branch, a
 This project is licensed under the MIT License.
 
 ## 📩 Contact
-For questions or feedback, reach out at **your-email@example.com**.
+For questions or feedback, reach out at **alehashareef9@gmail.com**.
 
 ---
 ⚡ *Never stop growing!*
